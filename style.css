@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	background-color: #CCBC99;
+	border: 5px solid #402F22;
+	font-family: "Dancing Script", cursive;
+}
+
+body{
+	background-color: #F3F0D1;
+	text-align: center;
+
+}
+
+p{
+	background-color: white;
+
+}
+
+.container{
+	background-color: #402F22;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+img{
+	width: 200px;
+	border-radius: 50px;
+	border: 5px solid #402F22;
+}
